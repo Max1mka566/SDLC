@@ -563,6 +563,6 @@ GameShelf должно устанавливаться и запускаться 
 
 ## Приложение Б. Макеты пользовательского интерфейса
 
-![Главный экран GameShelf](images/GameShelf-ui-mockup.png)
+![Главный экран GameShelf](images/GameShelf-ui-mockp.png)
 
 
